@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="40%" alt="Hello, Lian. I do open source!" src="m.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io">
 
 <br />
 
